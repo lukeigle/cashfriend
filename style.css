@@ -1,0 +1,24 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa; /* Um cinza bem claro */
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* Exemplo de hover personalizado para botões */
+.btn-primary:hover {
+    background-color: #0056b3; /* Cor mais escura no hover */
+    border-color: #0056b3;
+}
+
+/* Ajuste para ícones grandes em seções */
+section i {
+    margin-bottom: 15px;
+}
